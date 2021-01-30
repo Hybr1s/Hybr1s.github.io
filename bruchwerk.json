@@ -5,7 +5,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/..\/Bruchwerk_Map\/bruchwerk.json"
+         "target":"..\/bruchwerkmap\/bruchwerk.json"
         }
     },
  "height":135,
@@ -382,7 +382,7 @@
         {
          "columns":9,
          "firstgid":1,
-         "image":"..\/..\/Chaosflux Welt\/mapUtilities.png",
+         "image":"tiles\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -395,7 +395,7 @@
         {
          "columns":18,
          "firstgid":10,
-         "image":"..\/..\/Chaosflux Welt\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"tiles\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":576,
          "margin":0,
@@ -445,7 +445,7 @@
         {
          "columns":16,
          "firstgid":2404,
-         "image":"..\/..\/Chaosflux Welt\/misc.png",
+         "image":"tiles\/misc.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -535,7 +535,7 @@
         {
          "columns":16,
          "firstgid":3428,
-         "image":"..\/..\/..\/Downloads\/rc3_tiles-master\/rc3_tiles-master\/imgs\/tilesheets\/furniture.png",
+         "image":"tiles\/furniture.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -548,7 +548,7 @@
         {
          "columns":16,
          "firstgid":4452,
-         "image":"..\/..\/..\/Downloads\/rc3_tiles-master\/rc3_tiles-master\/imgs\/tilesheets\/tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -561,7 +561,7 @@
         {
          "columns":8,
          "firstgid":4708,
-         "image":"..\/..\/..\/Downloads\/rc3_tiles-master\/rc3_tiles-master\/imgs\/tilesheets\/floortileset.png",
+         "image":"tiles\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -574,7 +574,7 @@
         {
          "columns":1,
          "firstgid":4772,
-         "image":"..\/..\/..\/Downloads\/rc3maptiles-master\/rc3maptiles-master\/plakate-schilder\/wc_unisex.png",
+         "image":"tiles\/wc_unisex.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -587,7 +587,7 @@
         {
          "columns":8,
          "firstgid":4773,
-         "image":"..\/..\/..\/Downloads\/rpg_maker_vx_ace_tilesets_6_clothes_tilesets_by_hishimy_d8wfy64.png",
+         "image":"tiles\/rpg_maker_vx_ace_tilesets_6_clothes_tilesets_by_hishimy_d8wfy64.png",
          "imageheight":224,
          "imagewidth":256,
          "margin":0,
@@ -600,7 +600,7 @@
         {
          "columns":16,
          "firstgid":4829,
-         "image":"..\/..\/..\/Downloads\/urban_streets_c_by_schwarzenacht_d8cmhcy.png",
+         "image":"tiles\/urban_streets_c_by_schwarzenacht_d8cmhcy.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -613,7 +613,7 @@
         {
          "columns":24,
          "firstgid":5085,
-         "image":"..\/..\/..\/Downloads\/mv_noble_interior_by_schwarzenacht_dapf6pa.png",
+         "image":"tiles\/mv_noble_interior_by_schwarzenacht_dapf6pa.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -626,7 +626,7 @@
         {
          "columns":24,
          "firstgid":5661,
-         "image":"..\/..\/..\/Downloads\/mv_xmas_decoration_by_schwarzenacht_d9k7oed.png",
+         "image":"tiles\/mv_xmas_decoration_by_schwarzenacht_d9k7oed.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -639,7 +639,7 @@
         {
          "columns":32,
          "firstgid":6237,
-         "image":"..\/..\/..\/Downloads\/world-tiles-master\/world-tiles-master\/deco\/rc3-mullana-foyer.png",
+         "image":"tiles\/rc3-mullana-foyer.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -652,7 +652,7 @@
         {
          "columns":7,
          "firstgid":7261,
-         "image":"..\/..\/..\/Downloads\/world-tiles-master\/world-tiles-master\/deco\/minideko.png",
+         "image":"tiles\/minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
@@ -665,7 +665,7 @@
         {
          "columns":10,
          "firstgid":7352,
-         "image":"..\/..\/..\/Downloads\/world-tiles-master\/world-tiles-master\/deco\/rc3-mullana-restroom-party.png",
+         "image":"tiles\/rc3-mullana-restroom-party.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -678,7 +678,7 @@
         {
          "columns":16,
          "firstgid":7452,
-         "image":"..\/..\/..\/Downloads\/world-tiles-master\/world-tiles-master\/deco\/rc3-mullana-objects.png",
+         "image":"tiles\/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
