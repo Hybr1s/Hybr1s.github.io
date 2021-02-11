@@ -141,12 +141,6 @@
          "id":9,
          "name":"Waende",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -161,12 +155,6 @@
          "offsetx":16,
          "offsety":10,
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -179,12 +167,6 @@
          "id":14,
          "name":"Sitze",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -197,12 +179,6 @@
          "id":13,
          "name":"onFloor",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -217,12 +193,6 @@
          "offsetx":-12,
          "offsety":0,
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":false
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
