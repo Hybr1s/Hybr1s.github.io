@@ -51,7 +51,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/79.111.14.76:8000\/lo-fi"
+                 "value":"79.111.14.76:8000\/lo-fi"
                 }],
          "type":"tilelayer",
          "visible":true,
