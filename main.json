@@ -51,7 +51,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/79.111.14.76:8000\/lo-fi.xspf"
+                 "value":"http:\/\/ice4.somafm.com\/lush-128-aac"
                 }],
          "type":"tilelayer",
          "visible":true,
