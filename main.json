@@ -51,7 +51,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/ice4.somafm.com\/dronezone-128-aac"
+                 "value":"https:\/\/www.youtube.com\/watch?v=DWcJFNfaw9c&ab_channel=ChilledCow"
                 }],
          "type":"tilelayer",
          "visible":true,
