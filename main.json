@@ -51,7 +51,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"79.111.14.76:8000\/lo-fi"
+                 "value":"http:\/\/79.111.14.76:8000\/lo-fi.xspf"
                 }],
          "type":"tilelayer",
          "visible":true,
